@@ -80,3 +80,10 @@ function firstNonRepeatingLetter(s) {
 - HTML Academy (JavaScript advanced)
 - HTML Academy (FrontEnd Developer)
 
+---
+
+### Languages:
+
+- English \- Intermediate
+- Russian \- Native
+- Ukrainian \- Native
