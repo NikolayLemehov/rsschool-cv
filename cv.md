@@ -69,3 +69,14 @@ function firstNonRepeatingLetter(s) {
     return charIndex !== -1 ? s[charIndex] : '';
 }
 ```
+
+---
+
+### Courses:
+
+- GoIT FullStack Bootcamp (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- HTML Academy (ReactJS)
+- HTML Academy (JavaScript advanced)
+- HTML Academy (FrontEnd Developer)
+
