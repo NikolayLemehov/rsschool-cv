@@ -22,3 +22,28 @@ more productive. Attentive in working HTML, CSS,
 JavaScript and React. There is experience in applying
 Agile/Scrum methodology in team projects.
 
+---
+
+### Tech Skills:
+
+- HTML/CSS/PUG/SASS
+- Responsive/Adaptive design
+- JavaScript/TypeScript
+- React
+- Redux Toolkit
+- REST API
+- Node.js
+- MongoDB
+- Nest.js
+- Parcel
+- GIT
+
+---
+
+### Soft Skills:
+
+- Transparent
+- Responsibility
+- Conscientious
+- Teamwork
+
