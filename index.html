@@ -6,10 +6,7 @@
         content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>CV</title>
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
-        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link href="normalize.css" rel="stylesheet">
   <link href="style.css" rel="stylesheet">
 </head>
 <body>
@@ -122,16 +119,12 @@
           If a string contains all repeating characters, it should return an empty string ("") or None -- see sample
           tests.
         </p>
-        <pre>
-        <code>
-function firstNonRepeatingLetter(s) {
+        <pre><code>function firstNonRepeatingLetter(s) {
   const prettyS = s.toLowerCase();
   const arr = prettyS.split('')
   const charIndex = arr.findIndex((it, i, arr) => arr.filter(fIt => fIt === it).length === 1);
   return charIndex !== -1 ? s[charIndex] : '';
-}
-        </code>
-      </pre>
+}</code></pre>
       </section>
 
       <section class="my-projects">
