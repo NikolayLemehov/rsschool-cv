@@ -73,10 +73,6 @@ img {
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, .3);
 }
 
-.nav {
-
-}
-
 .nav-list {
   list-style: none;
   display: flex;
@@ -104,6 +100,20 @@ img {
 
 .section-title {
   margin-bottom: 20px;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+
+.intro__name {
+  font-size: 3rem;
+}
+
+.intro__dsc {
+  font-size: 2rem;
 }
 
 .my-projects__list {
